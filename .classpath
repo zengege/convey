@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="images"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/com.sun.java.jdk7.win32.x86_64_1.7.0.u45"/>
+	<classpathentry kind="lib" path="C:/Users/zws/Desktop/学习/mysql - 副本/mysql-connector-java-5.1.5-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zws/Desktop/学习/mysql - 副本/swing外观包.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
